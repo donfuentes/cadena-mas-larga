@@ -24,3 +24,4 @@ El programa se desarrolló en Python utilizando listas para el almacenamiento de
 
 5. Valida los resultados
 
+![image](https://user-images.githubusercontent.com/84164187/138311174-b658bff1-609f-4344-9b8f-4ca1df1b90c5.png)
